@@ -159,7 +159,7 @@ VALUES ("BREAK MY SOUL", 279, 2022, 1), ("VIRGO’S GROOVE", 369, 2022, 1), ("AL
 
 INSERT INTO
     SpotifyClone.seguidores (usuario_id, artista_id)
-VALUES (1, 1), (1, 2), (1, 3), (2, 1), (2, 3), (3, 2), (4, 4), (5, 5), (5, 6), (6, 1), (7, 6), (8, 1), (9, 3), (10, 1);
+VALUES (1, 1), (1, 2), (1, 3), (2, 1), (2, 3), (3, 2), (4, 4), (5, 5), (5, 6), (6, 6), (6, 1), (7, 6), (9, 3), (10, 2);
 
 INSERT INTO
     SpotifyClone.historico (
